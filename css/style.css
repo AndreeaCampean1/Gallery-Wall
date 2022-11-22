@@ -1,0 +1,17 @@
+body {
+    width: 100vw;
+}
+span{
+    width: 3rem;
+    height: 3rem;
+    border: 2px solid black;
+}
+#move {
+    position: sticky;
+    top: 50px;
+    right: 0;
+}
+/* kann sein musst du eine andere alternative nutzen beispiel sticky-fixed */
+/* . ein punkt ist diese ordner
+.. ist eine ordner nach oben
+/ slash bedeutet geh rein in diese ordnerx */
